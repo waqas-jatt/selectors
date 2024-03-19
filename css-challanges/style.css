@@ -1,0 +1,83 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+
+
+body{
+    font-family: 'Roboto',sans-serif;
+    text-align: center;
+    margin: 0;
+    padding: 0;
+}
+
+h1{
+    font-size: 50px;
+}
+
+img{
+    height: auto;
+    width: 50%;
+    border-radius: 4px;
+    margin: 2% auto;
+}
+
+.intro-section{
+    background-color: #D7D7D7;
+    padding: 40px 0 50px 0;
+}
+
+.intro-section p{
+    margin: 0;
+    font-size: 31px;
+    padding-top: 20px;
+}
+
+.intro-section h1{
+    margin: 1%;
+}
+
+.skill-section{
+    background-color: #FFEAEA;
+    margin: 0;
+    padding: 50px 0 100px 0;
+    margin-top: -17px;
+}
+
+.skill-section h1{
+    margin: 1% 0 2% 0;
+    font-size: 38px;
+}
+
+.skill-section p{
+    margin: 2px 6%;
+}
+
+.title{
+    font-size: 28px;
+}
+
+.recent-article{
+    background-color: #EAF9FF;
+    margin-top: -16px;
+    padding: 70px 0 70px 0;
+}
+
+.first-para{
+    font-size: 31px;
+    margin: 0;
+}
+
+.recent-article h1{
+    margin: 0;
+}
+
+.para{
+    margin: 2px 6%;
+}
+
+a{
+    text-decoration: none;
+    color: #99D930;
+}
+
+a:hover{
+    color: #131313;
+}
